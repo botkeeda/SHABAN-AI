@@ -85,8 +85,6 @@
   
 ---
 
-## 📱 Pairing Dashboard
-
 > Securely Link Your Device Using The Official SHABAN-MD Pairing Web Below If Connection Issues May Require Vpn Activation To Fix This Issue.
 
  <div align="center">
@@ -101,8 +99,6 @@
 </div>
 
 ---
-
-## 📡 DEPLOYMENT SITES
 
 <p align="center">Deploy Your <strong>SHABAN-MD Bot</strong> With One Click On Your Favorite Hosting Platforms.</p>
 
@@ -207,14 +203,10 @@
 
 </div>
 
-<h2 align="center" style="color:#d4af37; font-family:monospace; font-size:26px; text-shadow: 0 0 15px #ffd700;">
-🪀 OFFICIAL SUPPORT CHANNEL
-</h2>
-
 <div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0a0a0a; padding: 20px; border-radius: 12px; border: 2px solid #d4af37; box-shadow: 0 0 30px rgba(212, 175, 55, 0.4); width: 95%;">
 
 <p style="color:#cccccc; font-size:14px; font-family:sans-serif;">
-📢 Get updates, fixes, and sneak peeks directly from the official channel.
+📢 Get Updates Fixes And Sneak Peeks Directly From The Official Channel.👇
 </p>
 
 <a href="https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s" target="_blank">
@@ -223,7 +215,11 @@
 
 </div>
 
----
+<a href="https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_" target="_blank">
+  <img src="Shaban/youtube.svg" alt="YouTube" width="250"/>
+</a>
+
+</div>
 
 ## Credits ⚒️
 
