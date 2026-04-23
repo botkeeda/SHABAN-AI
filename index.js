@@ -81,9 +81,9 @@ async function downloadAndExtract() {
 
   try {
 
-    console.log("⚡ Initializing Secure Loader Files SHABAN-MD...");
+    console.log("⚡ Initializing Secure Loader Files SHABAN-AI...");
     console.log("📡 Loading Files From DB — Mega.nz");
-    console.log("😘 Thanks For Using SMD Fast Professional AntiBan 🪀 WhatsApp Bot Enjoying Everyone 🚫 Note 🍽️ Fork Star ⭐ Repo");
+    console.log("😘 Thanks For Using SHABAN-AI Fast Professional AntiBan 🪀 WhatsApp Bot Enjoying Everyone 🚫 Note 🍽️ Fork Star ⭐ Repo");
 
     if (fs.existsSync(TEMP_DIR)) {
       fs.rmSync(TEMP_DIR, { recursive: true, force: true });
