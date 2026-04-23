@@ -187,10 +187,17 @@
 
 |  ⚒️ **Feature**                     | **Status** 🔰  |
 |-----------------------------------|--------------|
-| <b>🤖 Ultimate Work </b>    | Active ✅   |
-| <b>🔁 Anti-Delete</b>              | Active ✅   |
-| <b>🎵 24/7 Runtime</b>               | Active ✅   |
-| <b>📥 Downloader</b>         | Active ✅   |
+| <b>🤖 Ultimate Work </b>    | Alive   |
+| <b>🔁 Anti-Delete</b>              | All Message   |
+| <b>🪃 Anti-Link</b>              | Groups   |
+| <b>👁️ Anti-viewones</b>              |  Vv Vv2 ❤️ Send Save   |
+| <b>😘 Auto-Reacts</b>              | Messages  |
+| <b>💨 Deployment Platforms</b>               | Heroku, Koyeb, Render, Railway, Vps, KataBump Panel, Bot Hosting Panel, |
+| <b>📥 Downloader</b>         | All Social Media  |
+| <b>🔁 Anti-Call</b>              | Active ✅   |
+| <b>🔁 Status-Reaply</b>              | Active ✅   |
+| <b>🔥 Status-Reacts</b>              | Active ✅   |
+| <b>👀 Status-Seen</b>              | Active ✅   |
 | <b>🧠 AI Chat</b>                  | Active ✅   |
 | <b>👮 Group Setting</b>         | Active ✅   |
 | <b>📛 Auto Sticker</b>             | Active ✅   |
